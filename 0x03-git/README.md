@@ -1,2 +1,2 @@
 “my second commit”
-(i.e. your README.md file will be updated)
+ “How to be up to date in git”
